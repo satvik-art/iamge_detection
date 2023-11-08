@@ -54,4 +54,6 @@ You can customize these scripts by modifying the paths to known faces and the im
 
 ## Author
 Satvik Jalali
+
+
 Enjoy experimenting with face recognition! If you encounter any issues or have ideas for improvements, feel free to contribute. Happy recognizing!
